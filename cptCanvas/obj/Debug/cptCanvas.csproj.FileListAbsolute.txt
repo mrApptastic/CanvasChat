@@ -18,3 +18,23 @@ c:\users\hob\documents\visual studio 2015\Projects\cptCanvas\cptCanvas\bin\Newto
 c:\users\hob\documents\visual studio 2015\Projects\cptCanvas\cptCanvas\obj\Debug\cptCanvas.csprojResolveAssemblyReference.cache
 c:\users\hob\documents\visual studio 2015\Projects\cptCanvas\cptCanvas\obj\Debug\cptCanvas.dll
 c:\users\hob\documents\visual studio 2015\Projects\cptCanvas\cptCanvas\obj\Debug\cptCanvas.pdb
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\cptCanvas.dll.config
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\cptCanvas.dll
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\cptCanvas.pdb
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.AspNet.SignalR.Core.dll
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.dll
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.Security.dll
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Web.Infrastructure.dll
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Newtonsoft.Json.dll
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Owin.dll
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.AspNet.SignalR.Core.xml
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.xml
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.Security.xml
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Newtonsoft.Json.xml
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\cptCanvas.csprojResolveAssemblyReference.cache
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\cptCanvas.dll
+G:\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\cptCanvas.pdb
