@@ -10,5 +10,11 @@ namespace cptCanvas
             // Call the broadcastMessage method to update clients.
             Clients.All.broadcastMessage(name, message, toast);
         }
+
+        public void Draw(string data, int level = 1)
+        {
+            // Call the broadcastMessage method to update clients.
+            Clients.All.drawData(data, level);
+        }
     }
 }
