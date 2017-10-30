@@ -53,8 +53,8 @@
             // Create a function that the hub can call to broadcast messages.
             chat.client.broadcastMessage = function (name, message, toast) {
                 // Html encode display name and message.
-                var encodedName = $('<div />').text(name).html();
-                var encodedMsg = $('<div />').text(message).html();
+                //var encodedName = $('<div />').text(name).html();
+                //var encodedMsg = $('<div />').text(message).html();
                 toastr[toast](message, name, { timeOut: 30000, positionClass : "toast-top-left" })
                 //// Add the message to the page.
                 //$('#discussion').append('<li><strong>' + encodedName
