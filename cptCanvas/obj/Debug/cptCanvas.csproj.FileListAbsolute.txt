@@ -38,3 +38,25 @@ C:\Users\hob\Documents\Visual Studio 2015\Projects\cptCanvas\cptCanvas\bin\Newto
 C:\Users\hob\Documents\Visual Studio 2015\Projects\cptCanvas\cptCanvas\obj\Debug\cptCanvas.csprojResolveAssemblyReference.cache
 C:\Users\hob\Documents\Visual Studio 2015\Projects\cptCanvas\cptCanvas\obj\Debug\cptCanvas.dll
 C:\Users\hob\Documents\Visual Studio 2015\Projects\cptCanvas\cptCanvas\obj\Debug\cptCanvas.pdb
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\cptCanvas.dll.config
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\cptCanvas.dll
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\cptCanvas.pdb
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.AspNet.SignalR.Core.dll
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.dll
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.Security.dll
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Web.Infrastructure.dll
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Newtonsoft.Json.dll
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Owin.dll
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.AspNet.SignalR.Core.xml
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.xml
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Microsoft.Owin.Security.xml
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\bin\Newtonsoft.Json.xml
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\cptCanvas.csprojResolveAssemblyReference.cache
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\cptCanvas.csproj.CoreCompileInputs.cache
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\cptCanvas.csproj.CopyComplete
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\cptCanvas.dll
+Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\cptCanvas.pdb

@@ -5,16 +5,14 @@ namespace cptCanvas
 {
     public class ChatHub : Hub
     {
-        public void Send(string name, string message, string toast)
+        public void SendCoordinates(int x, int y, int s, string z)
         {
-            // Call the broadcastMessage method to update clients.
-            Clients.All.broadcastMessage(name, message, toast);
+            Clients.All.receiveCoordinates(x, y, s, z);
         }
 
-        public void Draw(string data, int level = 1)
+        public void Send(string name, string message, string toast)
         {
-            // Call the broadcastMessage method to update clients.
-            Clients.All.drawData(data, level);
+            Clients.All.broadcastMessage(name, message, toast);
         }
     }
 }

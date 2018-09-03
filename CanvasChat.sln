@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cptCanvas", "cptCanvas\cptCanvas.csproj", "{5E35FE6D-2AF0-4F7D-80E4-7187F7E40D37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasChat", "cptCanvas\CanvasChat.csproj", "{5E35FE6D-2AF0-4F7D-80E4-7187F7E40D37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E02AFD09-0303-43EC-A073-EE53BC73E1E5}
 	EndGlobalSection
 EndGlobal
