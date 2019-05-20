@@ -86,7 +86,7 @@ var doctorSquareBandit = function (element, width = 300, height = 150, colours =
     });
     db.el.addEventListener("dblclick", function () {
         var img = prompt("Gem billedet", "Mit Billede :-)");
-        if (img != null) {
+        if (img !== null) {
             db.dl(img + ".png", db.el.toDataURL());
         }
     });
@@ -108,9 +108,10 @@ $(function () {
         ib.ct.closePath();
         ib.ct.fill();
         ib.ct.fillStyle = current;
-    }
+    };
+
     chat.client.broadcastMessage = function (name, message, toast) {
-        toastr[toast](message, name, { timeOut: 30000, positionClass: "toast-top-left" })
+        toastr[toast](message, name, { timeOut: 30000, positionClass: "toast-top-left" });
     };
 
     $.connection.hub.start().done(function () {

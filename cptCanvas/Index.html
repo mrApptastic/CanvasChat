@@ -7,7 +7,8 @@
 </head>
 <body>
     <canvas id="canvasBandit" width="1280" height="910"></canvas>
-    <div style="position: fixed; bottom: 0; left:0;">
+    <div id="toolBox">
+        <h2>Canvas Chat</h2>
         <input type="text" id="message" />
         <input type="button" id="sendmessage" value="Send" />
     </div>
@@ -15,6 +16,10 @@
     <script src="/Scripts/jquery.signalR-2.0.0.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
     <script src="/signalr/hubs"></script>
+    <script src="Scripts/mrToolBox.js"></script>
+    <script>
+        var ib = new mrToolBox("toolBox");
+    </script>
     <script src="Scripts/canvasChat.js"></script>
 
 </body>
