@@ -1,0 +1,3 @@
+﻿#toast-container > .toast-info, #toast-container > .toast-error, #toast-container > .toast-success, #toast-container > .toast-warning {
+    background-image: url("../Media/Icons/info.png") !important;
+}

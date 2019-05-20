@@ -19,3 +19,25 @@ Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\canvasChat.csp
 Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\canvasChat.csproj.CopyComplete
 Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\cptCanvas.dll
 Z:\Legeplads\Projekter\Kode\ASP.NET\cptCanvas\cptCanvas\obj\Debug\cptCanvas.pdb
+D:\Egne ting\CanvasChat\cptCanvas\bin\cptCanvas.dll.config
+D:\Egne ting\CanvasChat\cptCanvas\bin\cptCanvas.dll
+D:\Egne ting\CanvasChat\cptCanvas\bin\cptCanvas.pdb
+D:\Egne ting\CanvasChat\cptCanvas\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Egne ting\CanvasChat\cptCanvas\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Egne ting\CanvasChat\cptCanvas\bin\Microsoft.Owin.dll
+D:\Egne ting\CanvasChat\cptCanvas\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Egne ting\CanvasChat\cptCanvas\bin\Microsoft.Owin.Security.dll
+D:\Egne ting\CanvasChat\cptCanvas\bin\Microsoft.Web.Infrastructure.dll
+D:\Egne ting\CanvasChat\cptCanvas\bin\Newtonsoft.Json.dll
+D:\Egne ting\CanvasChat\cptCanvas\bin\Owin.dll
+D:\Egne ting\CanvasChat\cptCanvas\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Egne ting\CanvasChat\cptCanvas\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Egne ting\CanvasChat\cptCanvas\bin\Microsoft.Owin.xml
+D:\Egne ting\CanvasChat\cptCanvas\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Egne ting\CanvasChat\cptCanvas\bin\Microsoft.Owin.Security.xml
+D:\Egne ting\CanvasChat\cptCanvas\bin\Newtonsoft.Json.xml
+D:\Egne ting\CanvasChat\cptCanvas\obj\Debug\CanvasChat.csprojAssemblyReference.cache
+D:\Egne ting\CanvasChat\cptCanvas\obj\Debug\CanvasChat.csproj.CoreCompileInputs.cache
+D:\Egne ting\CanvasChat\cptCanvas\obj\Debug\CanvasChat.csproj.CopyComplete
+D:\Egne ting\CanvasChat\cptCanvas\obj\Debug\cptCanvas.dll
+D:\Egne ting\CanvasChat\cptCanvas\obj\Debug\cptCanvas.pdb
