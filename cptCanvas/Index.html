@@ -6,12 +6,59 @@
     <link href="Styles/style.css" rel="stylesheet" />
 </head>
 <body>
-    <canvas id="canvasBandit" width="1280" height="910"></canvas>
+    <div class="canvasBox">
+        <canvas id="overBandit"></canvas>
+        <canvas id="canvasBandit"></canvas>
+    </div>
     <div id="toolBox">
         <h2>Canvas Chat</h2>
-        <input type="text" id="message" />
-        <input type="button" id="sendmessage" value="Send" />
-    </div>
+        <div>
+            <input type="text" id="message" />
+            <input type="button" id="sendmessage" value="Send" />
+        </div>
+        <div>
+            <select id="colourSelect" name="colourSelect"></select>
+            <label for="colourSelect">Fill</label>
+        </div>
+        <div>
+            <select id="strokeSelect" name="strokeSelect"></select>
+            <label for="strokeSelect">Stroke</label>
+        </div>
+        <div>
+            <input type="range" id="widthRange" name="widthRange"
+                   min="1" max="200" value="25" step="1">
+            <label for="widthRange">Width</label>
+        </div>
+        <div>
+            <input type="range" id="heightRange" name="heightRange"
+                   min="1" max="200" value="25" step="1">
+            <label for="heightRange">Height</label>
+        </div>
+        <div>
+            <input type="range" id="lineRange" name="lineRange"
+                   min="1" max="50" value="1" step="1">
+            <label for="lineRange">Line Width</label>
+        </div>
+        <div>
+            <select id="shadeSelect" name="shadeSelect"></select>
+            <label for="shadeSelect">Shadow Colour</label>
+        </div>
+        <div>
+            <input type="range" id="shadeBlurRange" name="shadeBlurRange"
+                   min="0" max="50" value="0" step="1">
+            <label for="shadeBlurRange">Shadow Blur</label>
+        </div>
+        <div>
+            <input type="range" id="shadeXRange" name="shadeXRange"
+                   min="1" max="100" value="0" step="1">
+            <label for="shadeXRange">Shadow X</label>
+        </div>
+        <div>
+            <input type="range" id="shadeYRange" name="shadeYRange"
+                   min="0" max="100" value="0" step="1">
+            <label for="shadeYRange">Shadow Y</label>
+        </div>
+    </div>    
     <script src="Scripts/jquery-1.6.4.min.js"></script>
     <script src="/Scripts/jquery.signalR-2.0.0.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>

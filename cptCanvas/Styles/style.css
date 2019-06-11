@@ -1,3 +1,23 @@
 ﻿#toast-container > .toast-info, #toast-container > .toast-error, #toast-container > .toast-success, #toast-container > .toast-warning {
     background-image: url("../Media/Icons/info.png") !important;
 }
+
+body {
+    margin: 0;
+}
+
+#canvasBandit {
+    cursor: none;
+}
+
+.canvasBox {
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.canvasBox canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
