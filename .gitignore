@@ -50,3 +50,5 @@ Temporary Items
 /cptCanvas/bin
 /cptCanvas/obj/Debug
 /.vs
+/cptCanvas/obj/Release/Package/PackageTmp/bin
+/cptCanvas/obj/Release

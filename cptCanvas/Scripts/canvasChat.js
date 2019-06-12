@@ -241,6 +241,7 @@ $(function () {
         });
 
         ovel.addEventListener("touchmove", function (event) {
+            event.preventDefault();
             for (var i = 0; i < event.changedTouches.length; i++) {
                 let x = event.changedTouches[i].pageX;
                 let y = event.changedTouches[i].pageY;
