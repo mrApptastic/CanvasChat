@@ -7,7 +7,12 @@ body {
 }
 
 #canvasBandit {
+    z-index: 1;
+}
+
+#overBandit {
     cursor: none;
+    z-index: 2;
 }
 
 .canvasBox {
