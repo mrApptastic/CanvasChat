@@ -242,9 +242,9 @@ $(function () {
 
         ovel.addEventListener("touchmove", function (event) {
             event.preventDefault();
-            for (var i = 0; i < event.changedTouches.length; i++) {
-                let x = event.changedTouches[i].pageX;
-                let y = event.changedTouches[i].pageY;
+            for (var i = 0; i < event.targetTouches.length; i++) {
+                let x = event.targetTouches[i].pageX;
+                let y = event.targetTouches[i].pageY;
 
                 chat.server.sendCoordinates(x, y, width, height, fill, stro, meth, line, shCo, shBl, shOx, shOy);
             }
