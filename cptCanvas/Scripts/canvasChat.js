@@ -240,13 +240,12 @@ $(function () {
             chat.server.sendCoordinates(x, y, width, height, fill, stro, line, meth, shCo, shBl, shOx, shOy);
         });
 
-        ovel.addEventListener("touchmove", function (event) {
+        ovel.addEventListener("touchmove", function(event) {
+            for (const evt of event.touches) {
             event.preventDefault();
-            for (var i = 0; i < event.targetTouches.length; i++) {
-                let x = event.targetTouches[i].pageX;
-                let y = event.targetTouches[i].pageY;
-
-                chat.server.sendCoordinates(x, y, width, height, fill, stro, meth, line, shCo, shBl, shOx, shOy);
+            const x = evt.clientX;
+            const y = evt.clientY;		
+            chat.server.sendCoordinates(x, y, width, height, fill, stro, line, meth, shCo, shBl, shOx, shOy);	
             }
         });
 
